@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI!&fontSize=90&fontAlign=50&fontAlignY=30&desc=IamGENCO&descAlign=50&descSize=8&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI!THERE&fontSize=80&fontAlign=50&fontAlignY=30&desc=IamGENCO&descAlign=50&descSize=8&descAlignY=60&animation=twinkling" />
 </p>
  
 
@@ -11,5 +11,5 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Done is Better Than Perfect!&descAlign=50&descSize=10&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THEEND&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=10&descAlignY=40&animation=twinkling" />
 </p>
