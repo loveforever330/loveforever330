@@ -11,5 +11,5 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THEEND&fontSize=60&fontAlign=50&fontAlignY=70&desc=Have a Good Time!&descAlign=50&descSize=10&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THEEND&fontSize=60&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=10&descAlignY=40&animation=twinkling" />
 </p>
