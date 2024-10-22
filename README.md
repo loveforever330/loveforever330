@@ -1,9 +1,17 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI!%20THERE&fontSize=80&fontAlign=50&fontAlignY=30&desc=I%20am%20GENCO&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
- 
 
- 
+- 💬 currently learning about **Java,Springboot,Redis,Mysql**
+
+- 📫 Reach me at **GENCOMOMO@163.com**
+
+- 👨‍💻 All of my projects and thinks are available at [www.genco.top](https://www.genco.top)
+
+- ⚡ Fun fact **Done is better than Perfect !**
+
+
+<h3 align="left">Connect with me:</h3>
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=loveforever330&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
