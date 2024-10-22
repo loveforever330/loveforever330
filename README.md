@@ -28,7 +28,7 @@
 <br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=loveforever330&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GENCO&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveforever330&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
