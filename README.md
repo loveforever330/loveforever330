@@ -17,7 +17,7 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=loveforever330&theme=transparent&hide_border=true" />
 <br/>
 
-
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=loveforever330&theme=github-compact&hide_border=true&area=true" />
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=60&fontAlign=50&fontAlignY=70&desc=Have%20a%20nice%20day&descAlign=50&descSize=20&descAlignY=40&animation=twinkling" />
