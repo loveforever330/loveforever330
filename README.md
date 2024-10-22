@@ -2,6 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI!%20THERE&fontSize=80&fontAlign=50&fontAlignY=30&desc=I%20am%20GENCO&descAlign=50&descSize=20&descAlignY=60&animation=twinkling" />
 </p>
  
+
+ 
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=loveforever330&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<br/>
+
 <br>
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -10,11 +17,6 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=loveforever330&theme=transparent&hide_border=true" />
 <br/>
 
-
-<br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=loveforever330&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-<br/>
 
 
 <p align="center">
