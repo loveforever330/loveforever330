@@ -4,7 +4,7 @@
 
 <!-- - 💻 tech stack: **Java,Springboot,Redis,C++,** -->
 
-- 💬 currently learning about **Java,Springboot,Redis,Mysql**
+- 💬 currently learning about **Java,Springboot,Redis,MySQL,Kafka and so on**
 
 - 📫 Reach me at **GENCOMOMO@163.com**
 
